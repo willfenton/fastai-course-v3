@@ -5,7 +5,7 @@ Progress:
 
 Lesson | Topic | Lecture | Practice
 :------------ | :-------------| :-------------| :-------------
-1 | Image Classification |  :heavy_check_mark: | :white_check_mark:
+1 | Image Classification |  :heavy_check_mark: | :heavy_check_mark:
 2 | Data cleaning and production; SGD from scratch |  :white_check_mark: | :white_check_mark:
 3 | Data blocks; Multi-label classification; Segmentation |  :white_check_mark: | :white_check_mark:
 4 | NLP; Tabular data; Collaborative filtering; Embeddings |  :white_check_mark: | :white_check_mark:
