@@ -9,7 +9,7 @@ Lesson | Topic | Lecture | Practice
 2 | Data cleaning and production; SGD from scratch |  :heavy_check_mark: | :heavy_check_mark:
 3 | Data blocks; Multi-label classification; Segmentation |  :heavy_check_mark: | :heavy_check_mark:
 4 | NLP; Tabular data; Collaborative filtering; Embeddings |  :heavy_check_mark: | :heavy_check_mark:
-5 | Back propagation; Accelerated SGD; Neural net from scratch |  :white_check_mark: | :white_check_mark:
+5 | Back propagation; Accelerated SGD; Neural net from scratch |  :heavy_check_mark: | :heavy_check_mark:
 6 | Regularization; Convolutions; Data ethics |  :white_check_mark: | :white_check_mark:
 7 | Resnets from scratch; U-net; Generative (adversarial) networks |  :white_check_mark: | :white_check_mark:
 8 | Matrix multiplication; forward and backward passes |  :white_check_mark: | :white_check_mark:
